@@ -1,1 +1,2 @@
-# bootcamp-challenge-2
+# Overview
+Welcome to my portfolio project! This repository serves as a showcase of my skills, experience, and accomplishments. Whether you are a potential employer, colleague, or curious visitor, I invite you to explore this portfolio to learn more about my expertise and the projects I have undertaken.
